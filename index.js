@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["EMPIRE DRAGON NEST M"];
+const statusMessages = ["Welcome","to the","Server!!"];
 
 
 let currentIndex = 0;
